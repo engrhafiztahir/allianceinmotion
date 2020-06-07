@@ -1,0 +1,177 @@
+.navbar{
+
+background-color: #42a5f5 !important;
+min-height: 180px;
+
+}
+.nav-link{
+
+    font-weight: bold;
+    color: white !important;
+    margin-right: 50px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.card{
+
+width: 60%;
+height: 60%;
+
+margin: auto;
+margin-top: 40px;
+margin-bottom: -40px;
+column-gap: -40px !important;
+}
+.card1{
+    width: 90%;
+    height: 60%;
+    
+    margin: auto;
+    margin-top: -760px;
+    column-gap: -40px !important;
+    border: solid;
+    border-color: white;
+    background-color: white;
+    padding: 4%;
+    text-align: justify;
+    
+}
+.colour
+{
+background-color: rgb(96, 125, 139);
+height: 800px;
+width: max;
+}
+.card2
+{
+    margin: auto;
+    width: 90%; 
+    height: 750px;
+    background-color: rgb(245, 245, 245);
+    padding: 3%;
+    
+
+}
+.board{
+
+background-color: rgb(33, 150, 243);
+width: 100% ;
+height: 300px ;
+
+
+}
+.board1
+{
+
+background-color: rgb(245, 245, 245);
+width: 100%;
+height: 1800px;
+
+
+
+}
+.board2
+{
+margin-top: -1700px;    
+margin-left: auto;
+margin-right: auto;    
+background-color:white;
+width: 90%;
+height: 1050px;
+}
+
+
+.testimonial
+{
+background-color:white;
+width: 90%;
+height: 60px;
+margin-right: auto;
+margin-left: auto;
+
+}
+
+/* Slideshow container */
+.slideshow-container {
+    position: relative;
+    background: #f1f1f1f1;
+  }
+  
+  /* Slides */
+  .mySlides {
+    display: none;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -30px;
+    padding: 16px;
+    color: #888;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    position: absolute;
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+  }
+  
+  /* The dot/bullet/indicator container */
+  .dot-container {
+    text-align: center;
+    padding: 20px;
+    background: #ddd;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  /* Add a background color to the active dot/circle */
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  .background1{
+    
+      background-image:url(10.jpg);
+      background-position:center center;
+      background-size:cover;
+      width:100%;
+      height:100vh;
+      width: 100%;
+      height: 300px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      opacity: 0.3;
+
+  }
+  
+
+
+
+
